@@ -13,6 +13,7 @@ int main(){
     {
         cout << "You entered postive number: " << num << endl;
     }
+
     cout << "You entered negative number: ";
 
     return 0;
