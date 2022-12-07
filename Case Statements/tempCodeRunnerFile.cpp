@@ -1,0 +1,1 @@
+cout << "Entered number is Even";

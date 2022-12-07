@@ -14,7 +14,6 @@ int main()
         cout << "&arr[" << i << "] = " << &arr[i] << endl;
     }
 
-    // declare pointer variable
     float *ptr;
     ptr = arr;
 
